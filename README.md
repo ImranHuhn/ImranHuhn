@@ -1,5 +1,10 @@
 <h1>Hi, I'm Imran! <br/><a href="https://github.com/ImranHuhn">Programmer</a>, <a href="https://www.linkedin.com/in/ImranHuhn/">Operations</a>, <a href="https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw">YouTuber</a></h1>
 
+<h2>Tech Stack</h2>
+
+- techstack 1
+- techstack 2
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Repo1 (techstack)</b>
