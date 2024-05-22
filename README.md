@@ -1,4 +1,4 @@
-<h1>Hi, I'm Imran, an IT professional!</h1>
+<h1>I'm Imran an IT professional!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,6 +11,9 @@
 <h2>📜 Degrees & Certifications:</h2>
 
 - B.S. in Computer Science and Information Security
+- CompTIA Network+ (Pending...)
+- Red Hat Certified System Administrator RHCSA (Pending...)
+- AZ-104 (Pending...) 
 
 <h2>📺 My YouTube Videos:</h2>
 
