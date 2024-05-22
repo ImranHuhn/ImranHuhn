@@ -1,37 +1,21 @@
-<h1>Hi, I'm Imran! <br/><a href="https://github.com/ImranHuhn">Programmer</a>, <a href="https://www.linkedin.com/in/ImranHuhn/">Operations</a>, <a href="https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw">YouTuber</a></h1>
+<h1>Hi, I'm Imran, an IT professional!</h1>
 
-<h2>Tech Stack</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- techstack 1
-- techstack 2
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Repo1 (techstack)</b>
+- <b>Domain Environment (Azure, Windows 10, Windows Server 2019, Powershell)</b>
   - [repo1 title](https://github.com/ImranHuhn/Repo1)
-- <b>Repo2 (techstack)</b>
+- <b>Cloud Honeypot (Azure)</b>
   - [repo2 title](https://github.com/ImranHuhn/Repo2) 
-- <b>Repo3 (techstack)</b>
-  - [repo3 topic1](https://github.com/ImranHuhn/Repo3) 
-  - [repo3 topic2](https://github.com/ImranHuhn/Repo3) 
-  - [repo3 topic3](https://github.com/ImranHuhn/Repo3) 
-  - [repo3 topic4](https://github.com/ImranHuhn/Repo3) 
-- <b>Repo4 (techstack)</b>
-  - [repo4 topic1](https://github.com/ImranHuhn/Repo4) 
-  - [repo4 topic2](https://github.com/ImranHuhn/Repo4)
-  - [repo4 topic3](https://github.com/ImranHuhn/Repo4)
-- <b>Python Repo5</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/ImranHuhn/Repo5)
- 
-<h2>📜 Certifications:</h2>
 
-<h2>📺 Popular YouTube Videos:</h2>
+ 
+<h2>📜 Degrees & Certifications:</h2>
+
+- B.S. in Computer Science and Information Security
+
+<h2>📺 My YouTube Videos:</h2>
 
 - [Youtube video title 1](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
 - [Youtube video title 2](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
-- [Youtube video title 3](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
-- [Youtube video title 4](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
-- [Youtube video title 5](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
 
 <h2> 🤳 Connect with me:</h2>
 
